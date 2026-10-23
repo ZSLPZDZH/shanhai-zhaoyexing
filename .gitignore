@@ -1,0 +1,17 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.cache/
+.local/
+release-artifacts/
+playwright-report/
+test-results/
+*.log
+*.save.json
+*.tmp
+docs/media/media-manifest.json
+docs/media/design-notes.md

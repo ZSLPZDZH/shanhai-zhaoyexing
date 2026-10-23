@@ -1,0 +1,20 @@
+{
+  "legacyFixtureSha256": "1ba946e0fd130adb4954eb21f70a11db15a0c91c477d7d679a4a5527ba36ba85",
+  "metadataAdaptations": [
+    "index.html: search/social metadata only",
+    "data.js: six batch source paths point to bundled documents",
+    "assets/sources/b03-manifest.json: relative source path",
+    "assets/sources/b05-manifest.json: relative source path",
+    "assets/sources/b06-manifest.json: relative source document path"
+  ],
+  "gameMechanicsModified": false,
+  "originalArtworkModified": false,
+  "runtimeFiles": [
+    "index.html",
+    "app.js",
+    "style.css",
+    "engine.js",
+    "profile.js",
+    "data.js"
+  ]
+}

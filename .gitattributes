@@ -1,0 +1,18 @@
+* text=auto
+*.js text eol=lf
+*.cjs text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.srt text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.gif binary
+*.mp4 binary
+data.js linguist-generated=true
+assets/sources/** linguist-documentation=true
+docs/** linguist-documentation=true
+tests/fixtures/** linguist-vendored=true
