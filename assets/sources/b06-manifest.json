@@ -1,0 +1,1685 @@
+{
+  "source_document": "E:\\谷歌浏览器下载\\山海经_24顺序位_考据与六风格提示词完整稿.md",
+  "item_count": 24,
+  "styles_per_item": 6,
+  "expected_image_count": 144,
+  "naming_rule": "序号+题材名.png; styles 2–6 append the style number before .png",
+  "style_order": [
+    "电影级主视觉",
+    "新中式工笔重彩",
+    "月夜叙事",
+    "收藏级盲盒",
+    "剪影山海海报",
+    "极简水墨"
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "1鳙鳙之鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. the complete ox-like creature glides slowly across the lower frame, three-quarter side view, a single shaft of daylight reveals the head and full silhouette, distant mountains barely visible above the waterline. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "1鳙鳙之鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. the complete ox-like creature glides slowly across the lower frame, three-quarter side view, a single shaft of daylight reveals the head and full silhouette, distant mountains barely visible above the waterline. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "1鳙鳙之鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. the creature emerges beneath a moonlit river surface, its ox-like head reflected in a small circle of silver water; the river is quiet and deep, no violent attack. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "1鳙鳙之鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. Designer-toy transformation: an ox-shaped aquatic guardian in translucent smoky-jade resin, visible bovine muzzle, on a small clear river-water display base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "1鳙鳙之鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. Poster construction: a clear ox-shaped outer contour enclosing the river source, submerged cliffs and the mouth of the sea. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 1,
+      "source_heading": "鳙鳙之鱼",
+      "item_name": "鳙鳙之鱼",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "1鳙鳙之鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yongyong fish, one ancient aquatic creature with an unmistakably ox-like overall form, a broad bovine head, heavy shoulders and a robust bovine-shaped torso. Restrained tiger-like mottling follows Guo Pu’s commentary, not an extra statement in the base text. Aquatic skin treatment is an artistic interpretation. No red human face, no dragon head. Setting: the clear dark Shi River beneath Mount Suzhu, the river flowing toward a distant sea; submerged stone shelves and refracted water. Palette: deep jade green, warm charcoal, muted ochre and a narrow antique-gold highlight. Sparse composition: one broad ox-like aquatic silhouette under two pale horizontal water strokes, a small ochre reflection. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "2箴鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. a precise lateral profile, the complete needle-like snout and tail remain inside the frame; the fish cuts diagonally through a spacious field of clear green water, delicate ripples echo the needle line. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "2箴鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. a precise lateral profile, the complete needle-like snout and tail remain inside the frame; the fish cuts diagonally through a spacious field of clear green water, delicate ripples echo the needle line. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "2箴鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. a single silver needle-snouted fish passes beneath a narrow moon reflection, the mouth remains sharply separated from the dark water. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "2箴鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. Designer-toy transformation: a streamlined celadon-and-silver art-toy fish with a durable clearly visible needle snout, floating on a transparent river stand. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "2箴鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. Poster construction: the uninterrupted needle-snouted fish contour filled with fine river currents and jade river stones. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 2,
+      "source_heading": "箴鱼",
+      "item_name": "箴鱼",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "2箴鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhen fish, one slender ancient river fish resembling the small fish called shu in the text, with one extremely thin straight needle-like snout naturally continuous with its face, ordinary fish fins and a coherent streamlined body. The needle is its mouth, not a spear accessory or a bird beak. No legs or wings. Setting: the Zhi River flowing from Mount Xunzhuang, jade-colored stones beneath clean ripples. Palette: pale silver, celadon, quiet ink blue and a fine golden glint. Sparse composition: one long slender fish gesture, a sharply drawn snout, a small celadon ripple and expansive paper. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "3从从.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. the full six-legged animal pauses on a broad flat rock, head turned toward the viewer; its three near-side and three far-side legs are deliberately spaced, the mist never covers the paws. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "3从从2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. the full six-legged animal pauses on a broad flat rock, head turned toward the viewer; its three near-side and three far-side legs are deliberately spaced, the mist never covers the paws. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "3从从3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. a six-legged dog-like creature crosses a moonlit mountain ledge, six separated paws leave six readable contact points above low rolling mist. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "3从从4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. Designer-toy transformation: a soft matte-vinyl canine with exactly six short distinct legs, three on each side, balanced on a blue-green mineral-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "3从从5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. Poster construction: a dog-shaped silhouette with six clearly separated legs, enclosing mountain paths and mineral veins. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 3,
+      "source_heading": "从从",
+      "item_name": "从从",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "3从从6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Congcong, ONE dog-shaped mythical animal with EXACTLY SIX separate canine legs, three on each side of ONE coherent canine torso, one dog head and one tail. Use a staggered three-quarter side pose so all six paws can be counted without overlap. Clearly canine muzzle and ears. No wings, no extra heads, no missing or fused legs. Setting: Mount Xunzhuang, pale gold-bearing rocks and blue-green mineral stones among thin mountain mist. Palette: warm ash-brown fur, lapis shadows, pale mineral green and subdued gold. Sparse composition: one six-legged canine drawn with six unmistakable paw marks, a sparse rock and a small lapis wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "4䖪鼠.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. the bird stands in sharp side profile on a weathered rock, fine mouse-like fur is visible along neck and flanks; the dry valley remains small and distant, a pale sun and large empty sky give the image tension. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "4䖪鼠2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. the bird stands in sharp side profile on a weathered rock, fine mouse-like fur is visible along neck and flanks; the dry valley remains small and distant, a pale sun and large empty sky give the image tension. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "4䖪鼠3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. the furry chicken-shaped bird stands beneath a rust-colored moon above a dry empty valley; show dread through quiet air rather than flames. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "4䖪鼠4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. Designer-toy transformation: a furry-textured chicken-shaped vinyl collectible with two feet and mouse-like flocked body, on a tiny mineral-rock base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "4䖪鼠5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. Poster construction: a clear chicken contour with short furry edges containing a dry valley and pale sun. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 4,
+      "source_heading": "䖪鼠〔替代〕",
+      "item_name": "䖪鼠",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "4䖪鼠6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Cishu, ONE chicken-shaped mythical bird whose body is covered with clearly visible soft mouse-like fur instead of an ordinary full coat of feathers. Keep a recognizable chicken-like head, avian beak, one bird torso, two legs and two anatomically coherent wings treated with rodent-like down. No mouse head, no fish body, no extra limbs. Setting: the mineral-stone slopes of Mount Xunzhuang, a parched village valley far below used as a visual interpretation of the drought omen. Palette: dusty umber, quiet ivory, ink black and restrained cinnabar. Sparse composition: one chicken-like body expressed with soft fur strokes, two clear feet, a single faded red sun. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "5蠪侄.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. a full-body frontal three-quarter portrait; the nine fox faces form two clearly separated arcs, all nine tails fan behind the torso with empty spaces between them; low mist stays below the paws, never conceals a head or tail. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "5蠪侄2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. a full-body frontal three-quarter portrait; the nine fox faces form two clearly separated arcs, all nine tails fan behind the torso with empty spaces between them; low mist stays below the paws, never conceals a head or tail. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "5蠪侄3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. nine fox heads stare quietly from one body on a moonlit cliff, all nine tails rim-lit and fully visible; unsettling stillness, no victims or gore. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "5蠪侄4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. Designer-toy transformation: one sophisticated fox collectible with nine separate tiny fox heads in a five-plus-four arrangement and nine clearly countable fan tails, tiger-style paws, porcelain and smoky resin. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "5蠪侄5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. Poster construction: a nine-headed nine-tailed fox contour with countable heads and tails, containing the cliffs and mineral veins of Mount Fuli. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 5,
+      "source_heading": "蠪侄",
+      "item_name": "蠪侄",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "5蠪侄6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Longzhi, ONE fox-shaped mythical beast with EXACTLY NINE complete fox heads, EXACTLY NINE separate fox tails, and powerful tiger-like paws. All nine distinct necks attach to one shared fox-shaped torso. Arrange five heads in an upper arc and four in a lower arc, every face fully separated and countable. Spread tails as four on the left, four on the right and one central tail. Nine heads and nine tails must all fit visibly inside the frame. No human faces, no bird body, no additional heads, no fused tails. Setting: Mount Fuli, mineral-rich cliffs and pale sharpening stones surrounded by cold mountain mist. Palette: ivory and smoke-gray fur, ink-black cliffs, muted cinnabar and small antique-gold traces. Sparse composition: nine distinct fox faces and nine separate tail strokes around one torso, extremely sparse surroundings so the count remains legible. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "6当康.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. the full boar walks through foreground grain at sunrise, head slightly turned and both tusks readable; low grain leaves all four hoof shapes identifiable, golden mist opens behind it without hiding the animal. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "6当康2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. the full boar walks through foreground grain at sunrise, head slightly turned and both tusks readable; low grain leaves all four hoof shapes identifiable, golden mist opens behind it without hiding the animal. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "6当康3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. a tusked boar stands at the edge of a moonlit ripe-grain field, warm firefly-like light accents used only as atmosphere, distant Mount Qin under a quiet harvest moon. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "6当康4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. Designer-toy transformation: a refined rounded boar art toy with prominent tusks, four hooves and bristle textures, matte chestnut porcelain on a tiny golden-grain base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "6当康5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. Poster construction: a tusked-boar outline enclosing grain fields, terraced foothills and a rising sun. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 6,
+      "source_heading": "当康",
+      "item_name": "当康",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "6当康6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Dangkang, ONE sturdy ancient boar-shaped mythical animal with a recognizable pig snout, dense natural bristles, four cloven-hoofed legs and prominent curved ivory tusks naturally growing from its jaw. Keep the face warmly alert while preserving wild-boar structure. No antlers, no human hands, no wings, no ornate costume. Setting: the foothills of Mount Qin, mineral-bearing rocks opening toward fields of ripe grain; the grain is an artistic rendering of the abundant-harvest omen. Palette: warm chestnut, ripe-grain gold, subdued jade green and soft ivory. Sparse composition: a strong boar gesture with two ivory tusks, one slender grain stem and a pale golden wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "7獙獙.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. the fox stands firmly on a bare cliff, both wings partly extended to create an elegant triangular silhouette; one tail remains separate, the parched valley is small enough to keep the winged fox dominant. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "7獙獙2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. the fox stands firmly on a bare cliff, both wings partly extended to create an elegant triangular silhouette; one tail remains separate, the parched valley is small enough to keep the winged fox dominant. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "7獙獙3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. a winged fox stands on a cold moonlit barren ridge, wings spread against a narrow rust-colored horizon; drought is suggested by dry ground, not flame powers. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "7獙獙4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. Designer-toy transformation: a refined fox vinyl collectible with four paws, one tail and two unmistakable small wings, on a barren mineral-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "7獙獙5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. Poster construction: the winged-fox contour contains barren ridges, dry stream channels and a pale empty sun. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 7,
+      "source_heading": "獙獙",
+      "item_name": "獙獙",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "7獙獙6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bibi, ONE fox-shaped mythical beast with one fox head, a coherent four-legged fox torso, one fox tail and one pair of broad wings. Render the otherwise unspecified wings as restrained dark feathered wings, explicitly an artistic choice. Keep the fox muzzle and paws unmistakable. No nine tails, no additional heads, no antlers, no phoenix body. Setting: barren Mount Gufeng, bare mineral-rich rocks without trees, a dry valley in the distance. Palette: warm gray and russet fur, charcoal wings, dusty gold and a narrow pale-sky band. Sparse composition: one fox contour with a single tail and two clear wing gestures, bare rock below and a faded ochre horizon. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "8合窳.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. the creature stands on a rock ledge with its full body and red tail readable, human face turned toward the viewer; a broad flooded valley sits below it, rain is fine enough not to obscure anatomy. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "8合窳2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. the creature stands on a rock ledge with its full body and red tail readable, human face turned toward the viewer; a broad flooded valley sits below it, rain is fine enough not to obscure anatomy. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "8合窳3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. a yellow pig-bodied human-faced beast waits above a moonlit flooded valley, one red tail curves clearly against blue-black water, no victims or gore. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "8合窳4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. Designer-toy transformation: a strange but refined yellow porcelain pig-bodied guardian with one solemn human face, four hooves and one red resin tail, on a small indigo-wave base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "8合窳5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. Poster construction: a human-faced pig outline with yellow body and a separate red tail containing flood channels and Mount Shan. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 8,
+      "source_heading": "合窳",
+      "item_name": "合窳",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "8合窳6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Heyu, ONE pig-shaped mythical beast with ONE distinctly human face naturally integrated into a heavy boar-shaped head, a yellow body, one red tail, four pig-like cloven-hoofed legs and a coherent porcine torso. Human face, not an ordinary pig face or a human rider. No extra faces, no wings, no horns. Setting: Mount Shan above a rising ancient river valley; floodwater is an artistic scene based on the textual flood omen. Palette: muted mineral yellow, deep red tail, cold indigo water and pale silver rain. Sparse composition: one yellow pig-shaped body, a minimal human face, a distinct red tail and two dark flood-water strokes. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "9蜚.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. a frontal three-quarter full-body stance, white face and single central eye sharply lit; the long scaled snake tail curves into a separate open area of the composition, dried plants and exposed streambed frame the lower foreground. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "9蜚2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. a frontal three-quarter full-body stance, white face and single central eye sharply lit; the long scaled snake tail curves into a separate open area of the composition, dried plants and exposed streambed frame the lower foreground. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "9蜚3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. the white one-eyed face appears on a moonlit dried riverbed, scaled snake tail clearly visible, dead grasses low in frame; show unease without gore or bodies. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "9蜚4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. Designer-toy transformation: a charcoal porcelain ox guardian with white head, exactly one central eye and one scaled snake tail, on a dry-streambed base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "9蜚5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. Poster construction: an ox contour with a white single-eyed head and serpent tail enclosing dried waterways and dead grass. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 9,
+      "source_heading": "蜚",
+      "item_name": "蜚",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "9蜚6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Fei, ONE ox-shaped mythical beast with a clearly WHITE HEAD, EXACTLY ONE eye on its face, one long SNAKE TAIL instead of a bovine tail, and a massive bovine torso. Place the single eye centrally so the one-eye anatomy is unambiguous; no second eye socket. The snake tail is a continuous scaled appendage without an added snake head. No multiple heads, no feathered wings. Setting: Mount Tai as written 太山, dry river stones and withering grasses depicting the text’s destructive passage. Palette: bone-white head, charcoal-brown body, ash green and a tiny restrained cinnabar reflection. Sparse composition: a heavy ox gesture, one white face with one dark eye, a thin snake-tail curve and a sparse dry reed. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "10犰狳.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. the full creature crouches quietly between roots and stones; its beak, both owl-like eyes, long ears and complete snake tail are all visible, a distant human-like shadow is only a small narrative cue. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "10犰狳2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. the full creature crouches quietly between roots and stones; its beak, both owl-like eyes, long ears and complete snake tail are all visible, a distant human-like shadow is only a small narrative cue. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "10犰狳3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. a rabbit-bodied beaked creature lies very still under moonlit tree roots, owl-like eyes reflecting a thin light, snake tail curling visibly beside its flank. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "10犰狳4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. Designer-toy transformation: a refined ivory rabbit collectible with tiny bird beak, two round owl-like eyes and one unmistakable snake tail, four paws on a root-and-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "10犰狳5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. Poster construction: a rabbit contour with clear avian beak, owl-like eyes and serpent tail enclosing roots and the mountain stream. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 10,
+      "source_heading": "犰狳",
+      "item_name": "犰狳",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "10犰狳6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiuyu, ONE rabbit-shaped mythical animal with a distinctly avian BEAK, large forward-facing owl-like eyes and one long scaled SNAKE TAIL. Keep soft rabbit fur, long rabbit ears, four rabbit limbs and a coherent rabbit torso. The snake tail is attached naturally and has no extra head. This is the Shan Hai Jing creature, not a modern armored armadillo. No shell, no scales over the rabbit body, no wings. Setting: Mount Yue, catalpa and nan trees above thorny shrubs beside a small mountain stream. Palette: warm ivory fur, misty jade green, dark beak, moss brown and a slight ochre eye highlight. Sparse composition: one crouching rabbit shape, a sharp beak mark, two dark owl-eye circles and a separate thin snake-tail stroke. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "11珠蟞鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. an elevated three-quarter view of the complete bilobed creature above a pale river stone; six legs are clearly separated and countable, the single focal pearl catches a soft beam of water-filtered light. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "11珠蟞鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. an elevated three-quarter view of the complete bilobed creature above a pale river stone; six legs are clearly separated and countable, the single focal pearl catches a soft beam of water-filtered light. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "11珠蟞鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. a softly translucent bilobed six-legged aquatic creature rests on a moonlit river stone, pearl reflecting the surface moon without implying an unrecorded light power. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "11珠蟞鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. Designer-toy transformation: a premium pale-jade resin aquatic collectible with a rounded bilobed body, six separate short legs and a pearl detail, on a clear shallow-water base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "11珠蟞鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. Poster construction: a bilobed six-legged outer contour containing the bare river source, pale stones and a luminous-looking pearl accent. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 11,
+      "source_heading": "珠蟞鱼",
+      "item_name": "珠蟞鱼",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "11珠蟞鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zhubie fish, ONE mysterious aquatic organism with a soft bilobed LUNG-LIKE overall body outline, visible eyes, EXACTLY SIX distinct legs arranged three on each side, and a clearly visible pearl nestled near the body. A natural non-gory living creature, not a dissected organ. Use a restrained pair of eyes as an artistic choice since the selected base text does not give an eye count. No human face, no four-legged anatomy, no ordinary hard turtle shell. Setting: the clear Li River from the head of Mount Ge, a bare rocky river source flowing toward Yu Marsh. Palette: pale translucent jade, pearl ivory, soft moss green and a thin champagne-gold reflection. Sparse composition: one soft bilobed wash with six clearly separated leg marks, two small eye marks and one pearl-white circle. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "12䖺䗤.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. the entire serpentine body forms one graceful S curve while rising just above the river, two fin wings opened on either side; a delicate golden glow traces droplets, lower rocks stay dark and the upper composition remains spacious. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "12䖺䗤2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. the entire serpentine body forms one graceful S curve while rising just above the river, two fin wings opened on either side; a delicate golden glow traces droplets, lower rocks stay dark and the upper composition remains spacious. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "12䖺䗤3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. a yellow snake-shaped fish-winged creature emerges from a moonlit river, translucent fins rim-lit by its restrained textual emergence glow, no fire breath. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "12䖺䗤4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. Designer-toy transformation: a translucent golden-resin snake collectible with two clearly fin-rayed fish wings and no legs or horns, on a clear river-ripple pedestal. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "12䖺䗤5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. Poster construction: a yellow serpent contour with unmistakable fin wings enclosing the river bend and luminous droplets. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 12,
+      "source_heading": "䖺䗤",
+      "item_name": "䖺䗤",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "12䖺䗤6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tiaoyong, ONE yellow snake-shaped mythical aquatic creature with a long continuous yellow serpentine body and a pair of translucent FISH-FIN WINGS. The wings must show thin fin membranes and fin rays, never feathers or bat-wing claws. A restrained glow accompanies its emergence as described in the text. No dragon horns, no legs, no bird head, no additional snakes. Setting: the Motu River beneath Mount Du, pale beautiful stones and mineral-bearing cliffs. Palette: mineral yellow, deep jade water, translucent pale gold and quiet ink-blue distance. Sparse composition: one ochre S-shaped snake stroke, two delicate fin membranes and three small golden water dots. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "13鬿雀.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. a complete three-quarter bird portrait on a broad wind-worn rock, white head seen against dark sea mist; both hybrid feet and their tiger-like claws are fully exposed, red flowers remain sparse in the background. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "13鬿雀2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. a complete three-quarter bird portrait on a broad wind-worn rock, white head seen against dark sea mist; both hybrid feet and their tiger-like claws are fully exposed, red flowers remain sparse in the background. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "13鬿雀3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. the white-headed bird grips a moonlit coastal rock, two hybrid rodent-like feet with tiger claws sharply lit, northern sea mist below, no prey or gore. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "13鬿雀4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. Designer-toy transformation: a white-headed chicken-shaped porcelain art toy with two rodent-like feet tipped with miniature tiger claws, on a northern-sea rock base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "13鬿雀5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. Poster construction: a white-headed chicken outline with two visible tiger-clawed feet enclosing northern sea waves and red-flowered trees. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 13,
+      "source_heading": "鬿雀",
+      "item_name": "鬿雀",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "13鬿雀6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qique, ONE chicken-shaped mythical bird with a clearly WHITE HEAD, rodent-like lower feet ending in strong TIGER-LIKE CLAWS. Two avian legs only: rat-like foot structure and tiger claws form the same pair of feet, not additional limbs. Keep a chicken-like body, bird beak and one coherent torso. No tiger head, no human face, no four-legged bird. Setting: Mount Beihao overlooking the northern sea, wind-bent poplar-like trees with red blossoms. Palette: white head, dark umber plumage, cold sea blue and small cinnabar blossom accents. Sparse composition: a compact chicken gesture, one white head, two distinct clawed feet and a spare sea-blue wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "14鱃鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. a close full-fish three-quarter profile beside a pale submerged rock, the enlarged head occupies the visual center, the entire tail remains visible; a calm stream current separates foreground detail from distant barren banks. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "14鱃鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. a close full-fish three-quarter profile beside a pale submerged rock, the enlarged head occupies the visual center, the entire tail remains visible; a calm stream current separates foreground detail from distant barren banks. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "14鱃鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. a large-headed carp-shaped fish beneath moonlit water, the head rim-lit against dark exposed stones, quiet mysterious proportions. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "14鱃鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. Designer-toy transformation: a premium rounded large-headed carp toy in pale celadon porcelain with silver scale accents, floating on a clear stream stand. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "14鱃鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. Poster construction: a large-headed carp contour filled with a barren mountain stream and submerged stones. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 14,
+      "source_heading": "鱃鱼〔字形候选〕",
+      "item_name": "鱃鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "14鱃鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Qiu fish, ONE ancient river fish with a CARP-LIKE body and a conspicuously LARGE HEAD proportionate to a single coherent fish skeleton. Normal paired fish eyes, carp-like scales and ordinary fins; make the enlarged head the dominant identification feature, not an added human face. No legs, no wings, no extra head. Setting: the Cangti River issuing from barren Mount Mao, exposed stone banks without lush vegetation. Palette: aged silver, muted jade green, deep river blue and a soft ochre forehead reflection. Sparse composition: one carp silhouette with an unmistakably enlarged head, a small silver-blue water circle and a bare stone. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "15狪狪.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. the animal lowers its head toward a single pearl between its front hooves; a complete three-quarter side view shows the rounded pig torso, the pearl is the only bright focal point against the calm dark stone. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "15狪狪2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. the animal lowers its head toward a single pearl between its front hooves; a complete three-quarter side view shows the rounded pig torso, the pearl is the only bright focal point against the calm dark stone. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "15狪狪3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. a pig-shaped beast waits beside jade rocks under moonlight, the pearl between its hooves softly reflects the moon rather than casting magical beams. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "15狪狪4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. Designer-toy transformation: a gentle matte-porcelain pig collectible with four hooves and a small pearl nestled between the forehooves, on a jade-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "15狪狪5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. Poster construction: a pig-shaped silhouette containing mineral ridges and a small ivory pearl circle. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 15,
+      "source_heading": "狪狪",
+      "item_name": "狪狪",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "15狪狪6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tongtong, ONE pig-shaped mythical beast with a natural porcine snout, short bristles, four cloven-hoofed legs and a visible pearl. Place one pearl between its forehooves as a compositional choice: the ancient text does not specify the pearl’s location. A coherent pig body, no human hands, no wings, no added horns, no extra heads. Setting: Mount Taishan as written 泰山, jade-bearing rocks above the Huan River. Palette: warm gray-brown, pearl ivory, muted jade and small gold-leaf flecks. Sparse composition: one small pig form, four short hoof marks and one pearl-white dot on sparse green stone. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "16精精.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. a full side-three-quarter ox stance on an ochre rock terrace, the long horse tail is swept outward into clean negative space by the wind; the head turns slightly toward the valley, grass stays below the hooves. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "16精精2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. a full side-three-quarter ox stance on an ochre rock terrace, the long horse tail is swept outward into clean negative space by the wind; the head turns slightly toward the valley, grass stays below the hooves. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "16精精3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. a heavy ox silhouette stands on a moonlit ridge, the abundant horse-like tail streams through a separate band of silver mist. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "16精精4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. Designer-toy transformation: a sturdy ox porcelain collectible with a clearly long thick horse-hair tail, four hooves and subdued natural bovine features, on an ochre mountain base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "16精精5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. Poster construction: an ox contour with an unmistakably flowing horse tail containing the vegetated ochre slopes of Mount Muyou. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 16,
+      "source_heading": "精精",
+      "item_name": "精精",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "16精精6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jingjing, ONE ox-shaped mythical beast with an unmistakably HORSE-LIKE TAIL: long abundant continuous hair flowing from the tail base, not a thin cow tail ending in a small tuft. A broad bovine muzzle, heavy bovine shoulders, four cloven-hoofed legs and one coherent ox torso. Natural restrained bovine horns may be treated as artistic anatomy; no unicorn horn, no wings, no horse body. Setting: Mount Muyou, vegetation among mineral-rich and ochre-colored rocks. Palette: deep chestnut, muted forest green, mineral ochre and soft antique gold. Sparse composition: one heavy ox gesture and a long continuous horse-tail brushstroke, with a small ochre rock accent. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "17薄鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. the long full body curves beside a pale rock, the head turns just enough for its single central eye to read unmistakably; a shallow waterline and exposed stones imply the drought omen, spare upper frame. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "17薄鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. the long full body curves beside a pale rock, the head turns just enough for its single central eye to read unmistakably; a shallow waterline and exposed stones imply the drought omen, spare upper frame. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "17薄鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. one central eye of a long-bodied fish appears under a thin moon reflection, the complete body stays visible against pale river stones and a low dark waterline. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "17薄鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. Designer-toy transformation: a refined slender ancient-fish resin toy with exactly one central eye, no legs or wings, on a pale-stone and clear-water base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "17薄鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. Poster construction: a continuous long-fish contour with one clearly placed eye enclosing pale stone channels and a shrinking river. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 17,
+      "source_heading": "薄鱼",
+      "item_name": "薄鱼",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "17薄鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bo fish, ONE elongated ancient fish inspired by the textual zhan fish form, with EXACTLY ONE visible anatomical eye placed centrally on the head. Use a continuous long-bodied fish silhouette without claiming a definitive modern species identification. No hidden second eye, no second eye socket, no limbs, no wings, no dragon horns. Setting: the Shigao River from barren Mount Nuzheng, pale gypsum-like stone shelves and receding shallow water. Palette: smoky silver, deep ink blue, pale chalk white and one dim gold eye reflection. Sparse composition: one long silver-gray fish stroke, one eye dot and a pale broken waterline. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "18文茎.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. the complete tree rises off-center from a pale rock shelf, a few fruit clusters sharply readable near the foreground; generous upper sky, a thin stream leads toward distant mountains, soft sunrise touches the branching silhouette. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "18文茎2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. the complete tree rises off-center from a pale rock shelf, a few fruit clusters sharply readable near the foreground; generous upper sky, a thin stream leads toward distant mountains, soft sunrise touches the branching silhouette. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "18文茎3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. one ancient fruit-bearing tree stands above a moonlit mountain stream, tiny red jujube-shaped fruit remains readable, silver air and quiet branches. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "18文茎4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. Designer-toy transformation: a refined miniature branching tree in matte porcelain and jade resin, distinct red jujube-shaped fruits, on a mineral-stone bonsai-like display base without modern pot graphics. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "18文茎5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. Poster construction: a branching tree contour enclosing the mountain stream and a few clearly shaped red fruits. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 18,
+      "source_heading": "文茎",
+      "item_name": "文茎",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "18文茎6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Wenjing, ONE ancient mythical TREE, not an animal or bird, bearing clearly JUJUBE-SHAPED FRUITS as the only explicitly described botanical feature. Use a gracefully branching old trunk, restrained leaves and muted red jujube-shaped fruit as artistic choices rather than a botanical reconstruction. No animal face in the trunk, no phoenix, no bird body, no glowing medicinal symbols. Setting: Mount Fuyu as written 符禺之山, mineral slopes above a narrow stream. Palette: ink-brown bark, dusty jade leaves, muted cinnabar fruit and warm antique gold. Sparse composition: one branching ink tree, several small jujube-shaped cinnabar fruit marks and a quiet river line. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "19䰷鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. an elevated full-body three-quarter view reveals the flattened soft-turtle-like outline and leathery back, four limbs spaced around pale river rocks; a narrow sunlight band reveals subtle water patterns. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "19䰷鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. an elevated full-body three-quarter view reveals the flattened soft-turtle-like outline and leathery back, four limbs spaced around pale river rocks; a narrow sunlight band reveals subtle water patterns. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "19䰷鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. a low flat soft-turtle-like aquatic creature crosses a moonlit riverbed, smooth back catching a thin silver reflection, quiet mystery without gore. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "19䰷鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. Designer-toy transformation: a premium low oval aquatic collectible with soft-turtle-like leathery shell texture and four aquatic limbs, smoky-jade resin on a clear river-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "19䰷鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. Poster construction: a flattened soft-turtle-like contour filled with the mineral riverbed and river-source ripples. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 19,
+      "source_heading": "䰷鱼〔字形候选〕",
+      "item_name": "䰷鱼",
+      "source_annotation": [
+        "字形候选"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "19䰷鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Bang fish, ONE strange ancient aquatic creature with an overall SOFT-SHELLED-TURTLE-LIKE form: broad low flattened body, smooth leathery oval carapace, a short soft-turtle-style head and neck, four naturally attached aquatic limbs and one short tail as artistic anatomical reconstruction. Not a standard carp, not a bird, no feathers, no extra heads. Setting: the Yu River issuing from Mount Ying, mineral-bearing river stones beneath rippled clear water. Palette: smoky celadon, gray olive, pale silver and faint copper-brown reflections. Sparse composition: one low oval aquatic form, four short limb strokes and a broad celadon water wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "20天马.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. the complete white dog with black head leaps freely above a patterned stone ridge, four paws and tail clearly visible, the airborne gap below is unmistakable; tiny distant traveler silhouette gives the textual encounter a quiet visual cue. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "20天马2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. the complete white dog with black head leaps freely above a patterned stone ridge, four paws and tail clearly visible, the airborne gap below is unmistakable; tiny distant traveler silhouette gives the textual encounter a quiet visual cue. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "20天马3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. a white wingless dog with black head hangs above a moonlit ridge, four canine paws visible against silver mist, a large empty sky. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "20天马4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. Designer-toy transformation: a white-dog collectible with black head, four paws and no wings, suspended on a discreet clear support above a patterned-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "20天马5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. Poster construction: a wingless white-dog contour with black head filled with patterned rocks and the mountain sky. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 20,
+      "source_heading": "天马",
+      "item_name": "天马",
+      "source_annotation": [],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "20天马6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Tianma, ONE mythical animal shaped like a WHITE DOG with a distinctly BLACK HEAD, four canine legs, one canine tail and a coherent dog skeleton. The ancient text says it flies when seeing people but does not describe wings: depict the dog suspended in a natural leaping airborne pose with NO WINGS. No horse body, no hooves, no antlers, no second head. Setting: Mount Macheng, patterned mineral stones and distant mountain valleys. Palette: white fur, black head, cold jade blue and soft sunrise gold. Sparse composition: one airborne white dog shape, one black head, four paw marks and a single rock far below. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "21鵹鹕.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. the bird stands on a broad low river stone, both human-like feet and all toes clearly visible; mandarin-duck-style plumage stays refined, a sandy river bend and small distant earth bank balance the portrait. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "21鵹鹕2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. the bird stands on a broad low river stone, both human-like feet and all toes clearly visible; mandarin-duck-style plumage stays refined, a sandy river bend and small distant earth bank balance the portrait. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "21鵹鹕3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. a mandarin-duck-bodied bird stands on a moonlit sandbar with two unmistakable human-like feet, a quiet ancient earth embankment far behind. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "21鵹鹕4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. Designer-toy transformation: a refined mandarin-duck-like art toy with exactly two small human-shaped bare feet, muted porcelain plumage on a sandy river-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "21鵹鹕5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. Poster construction: a duck-shaped contour with two human feet containing sandbars and an ancient earth embankment. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 21,
+      "source_heading": "鵹鹕〔替代〕",
+      "item_name": "鵹鹕",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "21鵹鹕6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Lihu, ONE mythical bird with a MANDARIN-DUCK-LIKE body and exactly TWO clearly HUMAN-LIKE BARE FEET attached to its ordinary bird legs. Visible human toes, not webbed duck feet. A duck-like head and beak, one avian torso, two wings and one short feathered tail. No human face, no extra legs, no human hands. Setting: the Sha River beneath barren sandy Mount Luqi, sandbars and a distant modest ancient earthwork as a creative reference to the textual earthwork omen. Palette: restrained rust red, muted teal, ivory, sand gold and calm gray water. Sparse composition: one duck silhouette above two tiny but readable human feet, a single pale river stroke. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "22妴胡.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. the complete elk-like animal turns its head toward the viewer in a three-quarter stance among sparse thorn branches; its round fish-like eyes are the sharp focal point, low mist stays beneath its body. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "22妴胡2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. the complete elk-like animal turns its head toward the viewer in a three-quarter stance among sparse thorn branches; its round fish-like eyes are the sharp focal point, low mist stays beneath its body. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "22妴胡3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. an elk-shaped animal with round wet fish-like eyes stands in a moonlit thorn valley, eye reflections readable, no glowing magic beam. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "22妴胡4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. Designer-toy transformation: a refined tawny-porcelain elk art toy with large round fish-like eyes and four deer legs, restrained natural deer features on a thorn-stone base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "22妴胡5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. Poster construction: an elk silhouette with round fish-like eyes containing thorn valleys and the mineral ridges of Mount Shihu. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 22,
+      "source_heading": "妴胡〔替代〕",
+      "item_name": "妴胡",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "22妴胡6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Yuanhu, ONE ELK-LIKE mythical beast with prominently round moist FISH-LIKE EYES integrated naturally into its deer-like face. A coherent elk-shaped body, four deer legs, short deer tail and restrained natural elk antlers used as artistic anatomy rather than an independently stated feature. Preserve the elk muzzle and large round fish eyes. No fish head, no fins, no human face, no white-tail or mane requirement. Setting: Mount Shihu, thorny vegetation below mineral-bearing slopes. Palette: warm tawny fur, smoky jade green, pale silver eyes and faint mineral gold. Sparse composition: one elk contour, two round wet-eye marks and a sparse thorn branch in pale jade wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "23茈鱼.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. a carefully organized elevated three-quarter view, the single shared fish head is unobstructed; ten complete fish bodies form a readable fan, five on each side, every tail visible without cropping or merging, sparse background. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "23茈鱼2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. a carefully organized elevated three-quarter view, the single shared fish head is unobstructed; ten complete fish bodies form a readable fan, five on each side, every tail visible without cropping or merging, sparse background. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "23茈鱼3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. one shared fish head with ten distinctly separated fish bodies fans beneath moonlit clear water, silver tail edges keep all ten bodies countable. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "23茈鱼4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. Designer-toy transformation: one premium resin mythical fish collectible with one shared head and ten separate crucian-carp-shaped bodies arranged five plus five, all ten tails readable, on a transparent-water base. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "23茈鱼5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. Poster construction: a one-headed ten-bodied fish contour enclosing blue-green jade stones and river currents; preserve every individual body outline. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 23,
+      "source_heading": "茈鱼〔替代〕",
+      "item_name": "茈鱼",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "23茈鱼6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Zi fish, ONE mythical aquatic organism with EXACTLY ONE crucian-carp-like HEAD shared by EXACTLY TEN distinct complete crucian-carp-like BODIES, each body ending in its own visible fish tail. The ten bodies branch naturally behind the same single head and gill junction, arranged as five to the left and five to the right with clear water gaps. Exactly one head, exactly ten bodies, exactly ten tails; not ten separate fish, not an octopus, not ten tentacles. Setting: the Ci River beneath Mount Dongshi, blue-green jade stones and scattered beautiful shells in clear water. Palette: smoky violet-silver, muted celadon, pearl white and delicate antique gold. Sparse composition: one fish head connected to ten separate body-and-tail strokes, five on each side, minimal river wash to protect count legibility. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 1,
+      "style": "电影级主视觉",
+      "filename": "24絜钩.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. the complete duck-shaped bird balances on a low branch, its long rat tail curls into clear empty sky, both bird feet touch the branch; the marsh is distant and subdued, silhouette readable at small scale. Cinematic Chinese mythology key art, credible integrated anatomy, precise environmental depth, controlled atmospheric light, detailed natural surfaces, restrained composition. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 2,
+      "style": "新中式工笔重彩",
+      "filename": "24絜钩2.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. the complete duck-shaped bird balances on a low branch, its long rat tail curls into clear empty sky, both bird feet touch the branch; the marsh is distant and subdued, silhouette readable at small scale. Museum-quality Neo-Chinese gongbi illustration, exceptionally fine controlled outlines, mineral pigments, subtle silk grain, delicate gold-leaf accents, layered distant ink mountains, refined lighting rendered through paint, strong silhouette and generous breathing space. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 3,
+      "style": "月夜叙事",
+      "filename": "24絜钩3.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. a duck-shaped rat-tailed bird perches on a moonlit old branch, long nearly hairless tail fully visible against pale mist, an empty settlement far below, no victims or gore. Nocturnal Chinese myth painting with cinematic moonlight, quiet visual storytelling, precise dark tonal separation, delicate mist, fine gongbi-informed detail, no excessive magical effects. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 4,
+      "style": "收藏级盲盒",
+      "filename": "24絜钩4.png",
+      "aspect_ratio": "1:1",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. Designer-toy transformation: a sophisticated duck-shaped matte-porcelain collectible with one long thin rat tail and two bird feet perched on a branch base, muted teal and smoky brown. Simplify proportions while preserving every stated head, limb, wing and tail count. Premium contemporary Neo-Chinese collectible, matte porcelain, translucent resin, subtle metallic accents, clean warm-gray studio background, soft product lighting, crisp three-quarter product view. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Square 1:1."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 5,
+      "style": "剪影山海海报",
+      "filename": "24絜钩5.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. Poster construction: a duck contour with a clear long rat tail enclosing marsh water, bare branches and a tiny distant settlement. Keep the outside contour anatomically legible; internal landscape must not obscure the defining features or merge countable parts. Elegant double-exposure Chinese mythology poster, layered ink landscape, mineral-pigment accents, tactile archival paper, restrained gold, spacious ivory margins. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    },
+    {
+      "sequence": 24,
+      "source_heading": "絜钩〔替代〕",
+      "item_name": "絜钩",
+      "source_annotation": [
+        "替代"
+      ],
+      "style_no": 6,
+      "style": "极简水墨",
+      "filename": "24絜钩6.png",
+      "aspect_ratio": "3:4",
+      "prompt": "Jiegou, ONE DUCK-SHAPED mythical bird with ONE long unmistakably RAT-LIKE TAIL: slender, nearly hairless, finely textured, and naturally attached where a short duck tail would normally be. One duck head with a broad duck bill, one avian torso, two wings and two ordinary avian legs used to perch on a branch. No human feet, no additional tails, no white-head requirement, no long phoenix feathers. Setting: Mount Zhen above a broad marsh, one weathered tree branch and a quiet distant settlement used as a creative interpretation of the epidemic omen. Palette: smoky brown, muted teal, gray ink, pale paper ivory and a small cinnabar accent. Sparse composition: one duck silhouette on one branch, one thin nearly hairless rat-tail line and a spare pale mist wash. Refined Chinese ink-wash interpretation, decisive brush rhythm, subtle dry-brush texture, one or two small mineral-color accents, large unpainted paper area, preserve the anatomy even in simplified form, contemplative and collectible. One coherent subject with every defining feature readable. No text, no watermark, no logo, no cluttered collage. Vertical 3:4."
+    }
+  ]
+}
