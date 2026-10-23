@@ -79,9 +79,9 @@
 
 ## 开始你的旅程
 
-- **在线游玩：**打开[游戏页面](https://zslpzdzh.github.io/shanhai-zhaoyexing/)，无需安装或账号。
-- **离线游玩：**从 [Releases](https://github.com/ZSLPZDZH/shanhai-zhaoyexing/releases/latest) 下载离线包，完整解压后用 Chrome 或 Edge 打开 `index.html`。
-- **接续存档：**旅程自动保存在当前浏览器。网页版、本地文件、本地服务器三种入口分别保存进度；切换入口或设备时，在设置或札记中导出、导入 JSON 存档。
+- **在线游玩**：打开[游戏页面](https://zslpzdzh.github.io/shanhai-zhaoyexing/)，无需安装或账号。
+- **离线游玩**：从 [Releases](https://github.com/ZSLPZDZH/shanhai-zhaoyexing/releases/latest) 下载离线包，完整解压后用 Chrome 或 Edge 打开 `index.html`。
+- **接续存档**：旅程自动保存在当前浏览器。网页版、本地文件、本地服务器三种入口分别保存进度；切换入口或设备时，在设置或札记中导出、导入 JSON 存档。
 
 键盘可用 **1–9 / 0** 出牌、**E** 结束回合、**Esc** 暂停、**?** 查看规则。手机支持触控操作。完整的战斗、难度、觉醒、成就与存档说明见 **[游玩指南](docs/GAME_GUIDE.md)**。
 
